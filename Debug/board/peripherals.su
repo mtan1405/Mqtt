@@ -1,0 +1,4 @@
+C:\Users\os\Documents\MCUXpressoIDE_11.8.0_1165\2_13_RT1160\evkmimxrt1160_lwip_mqtt_freertos_cm7\CMSIS/core_cm7.h:2041:22:__NVIC_SetPriority	16	static
+../board/peripherals.c:138:13:LPUART2_init	8	static
+../board/peripherals.c:148:6:BOARD_InitPeripherals	8	static
+../board/peripherals.c:157:6:BOARD_InitBootPeripherals	8	static

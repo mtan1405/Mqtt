@@ -1,0 +1,9 @@
+../source/modbus/mb-packet.c:106:13:mb_packet_response_read_coil	56	static
+../source/modbus/mb-packet.c:116:13:mb_packet_response_read_discrete_inputs	56	static
+../source/modbus/mb-packet.c:126:13:mb_packet_response_read_holding_registers	56	static
+../source/modbus/mb-packet.c:136:13:mb_packet_response_read_input_registers	56	static
+../source/modbus/mb-packet.c:146:13:mb_packet_response_write_single_coil	48	static
+../source/modbus/mb-packet.c:156:13:mb_packet_response_write_single_register	48	static
+../source/modbus/mb-packet.c:166:13:mb_packet_response_write_multiple_coils	48	static
+../source/modbus/mb-packet.c:176:13:mb_packet_response_write_multiple_registers	48	static
+../source/modbus/mb-packet.c:186:13:mb_packet_error	48	static

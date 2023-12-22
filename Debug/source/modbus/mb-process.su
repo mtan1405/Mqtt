@@ -1,0 +1,8 @@
+../source/modbus/mb-process.c:19:12:mb_slave_process_read_coils	56	static
+../source/modbus/mb-process.c:43:12:mb_slave_process_read_discrere_inputs	56	static
+../source/modbus/mb-process.c:67:12:mb_slave_process_read_holding_registers	56	static
+../source/modbus/mb-process.c:90:12:mb_slave_process_read_input_registers	56	static
+../source/modbus/mb-process.c:113:12:mb_slave_process_write_single_coil	48	static
+../source/modbus/mb-process.c:123:12:mb_slave_process_write_single_register	48	static
+../source/modbus/mb-process.c:133:12:mb_slave_process_write_multiple_coils	56	static
+../source/modbus/mb-process.c:153:12:mb_slave_process_write_multiple_register	56	static

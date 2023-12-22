@@ -1,0 +1,9 @@
+../source/modbus/mb-check.c:12:12:mb_check_func	16	static
+../source/modbus/mb-check.c:45:12:mb_check_quantity	16	static
+../source/modbus/mb-check.c:51:12:mb_check_quantity_bit_n_byte	24	static
+../source/modbus/mb-check.c:60:12:mb_check_quantity_reg_n_byte	16	static
+../source/modbus/mb-check.c:66:12:mb_check_table_coils_address	16	static
+../source/modbus/mb-check.c:73:12:mb_check_table_discretes_input_address	16	static
+../source/modbus/mb-check.c:81:12:mb_check_table_input_registers_address	16	static
+../source/modbus/mb-check.c:88:12:mb_check_table_holding_registers_address	16	static
+../source/modbus/mb-check.c:95:12:mb_check_on_off	16	static

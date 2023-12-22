@@ -1,0 +1,4 @@
+../source/modbus/mb-table.c:32:6:mb_table_write	16	static
+../source/modbus/mb-table.c:37:10:mb_table_read	16	static
+../source/modbus/mb-table.c:42:6:mb_table_write_bit	24	static
+../source/modbus/mb-table.c:54:9:mb_table_read_bit	24	static

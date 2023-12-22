@@ -1,0 +1,15 @@
+C:\Users\os\Documents\MCUXpressoIDE_11.8.0_1165\2_13_RT1160\evkmimxrt1160_lwip_mqtt_freertos_cm7\component\phy/fsl_phy.h:178:24:PHY_Init	16	static
+C:\Users\os\Documents\MCUXpressoIDE_11.8.0_1165\2_13_RT1160\evkmimxrt1160_lwip_mqtt_freertos_cm7\component\phy/fsl_phy.h:238:24:PHY_GetLinkStatus	16	static
+C:\Users\os\Documents\MCUXpressoIDE_11.8.0_1165\2_13_RT1160\evkmimxrt1160_lwip_mqtt_freertos_cm7\component\phy/fsl_phy.h:255:24:PHY_GetLinkSpeedDuplex	24	static
+../lwip/port/ethernetif.c:123:6:ethernetif_phy_init	40	static
+../lwip/port/ethernetif.c:143:13:fetch_all_received_pkts	24	static
+../lwip/port/ethernetif.c:160:17:netif_to_bitmask	24	static
+../lwip/port/ethernetif.c:166:13:rx_task	32	static
+../lwip/port/ethernetif.c:197:6:ethernetif_input	40	static
+../lwip/port/ethernetif.c:224:7:ethernetif_init	40	static
+../lwip/port/ethernetif.c:330:6:ethernetif_probe_link	32	static
+../lwip/port/ethernetif.c:361:13:probe_link_cyclic	16	static
+../lwip/port/ethernetif.c:370:13:extcb	32	static
+../lwip/port/ethernetif.c:382:12:ethernetif_wait_linkup	40	static
+../lwip/port/ethernetif.c:479:12:ethernetif_wait_ipv4_valid	40	static
+../lwip/port/ethernetif.c:576:6:ethernetif_pbuf_free_safe	24	static

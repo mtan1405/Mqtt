@@ -1,0 +1,13 @@
+C:\Users\os\Documents\MCUXpressoIDE_11.8.0_1165\2_13_RT1160\evkmimxrt1160_lwip_mqtt_freertos_cm7\drivers/fsl_clock.h:2036:24:CLOCK_GetRootClockMux	16	static
+C:\Users\os\Documents\MCUXpressoIDE_11.8.0_1165\2_13_RT1160\evkmimxrt1160_lwip_mqtt_freertos_cm7\drivers/fsl_clock.h:2077:24:CLOCK_GetRootClockDiv	16	static
+C:\Users\os\Documents\MCUXpressoIDE_11.8.0_1165\2_13_RT1160\evkmimxrt1160_lwip_mqtt_freertos_cm7\drivers/fsl_clock.h:2122:20:CLOCK_SetRootClock	16	static
+C:\Users\os\Documents\MCUXpressoIDE_11.8.0_1165\2_13_RT1160\evkmimxrt1160_lwip_mqtt_freertos_cm7\drivers/fsl_clock.h:2205:24:CLOCK_GetRootClockFreq	32	static
+C:\Users\os\Documents\MCUXpressoIDE_11.8.0_1165\2_13_RT1160\evkmimxrt1160_lwip_mqtt_freertos_cm7\drivers/fsl_clock.h:2344:20:CLOCK_OSC_EnableOsc48M	16	static
+C:\Users\os\Documents\MCUXpressoIDE_11.8.0_1165\2_13_RT1160\evkmimxrt1160_lwip_mqtt_freertos_cm7\drivers/fsl_clock.h:2376:20:CLOCK_OSC_EnableOsc48MDiv2	16	static
+C:\Users\os\Documents\MCUXpressoIDE_11.8.0_1165\2_13_RT1160\evkmimxrt1160_lwip_mqtt_freertos_cm7\drivers/fsl_clock.h:2458:20:CLOCK_OSC_GateOscRc400M	16	static
+C:\Users\os\Documents\MCUXpressoIDE_11.8.0_1165\2_13_RT1160\evkmimxrt1160_lwip_mqtt_freertos_cm7\drivers/fsl_iomuxc.h:1685:20:IOMUXC_SetSaiMClkClockSource	24	static
+C:\Users\os\Documents\MCUXpressoIDE_11.8.0_1165\2_13_RT1160\evkmimxrt1160_lwip_mqtt_freertos_cm7\drivers/fsl_iomuxc.h:1755:20:IOMUXC_MQSConfig	24	static
+../board/clock_config.c:39:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:48:6:UpdateSemcClock	4	static
+../board/clock_config.c:269:6:BOARD_BootClockRUN	16	static
+../board/clock_config.c:1019:6:BOARD_BootClockRUN_500M	16	static
